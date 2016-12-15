@@ -12,3 +12,4 @@ Makefile*
 /configure
 /autom4te.cache
 pcap-filter
+.deps/
