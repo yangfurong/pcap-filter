@@ -1,6 +1,7 @@
 *.o
 *.a
-Makefile*
+Makefile
+Makefile.in
 /aclocal.m4
 /autoscan.log
 /config.*
