@@ -1,0 +1,14 @@
+*.o
+*.a
+Makefile*
+/aclocal.m4
+/autoscan.log
+/config.*
+/COPYING
+/INSTALL
+/install-sh
+/missing
+/stamp-h1
+/configure
+/autom4te.cache
+pcap-filter
